@@ -16,7 +16,7 @@ UWUToolsV3 is designed to work specifically with nware. It aims to provide an en
 
 2. Open the cloud gaming service client and log in to your account.
 
-3. Download the bat file from https://gg.gg/uwutoolsv3 or from this repository. Launch the UWUToolsV3.bat file and follow the on-screen instructions to execute the exploit.
+3. Download the bat file from https://gg.gg/uwutoolsv3fix or from this repository. Launch the UWUToolsV3.bat file and follow the on-screen instructions to execute the exploit.
 
 4. Once the exploit is successful, you should be able to access additional games that were previously restricted on the cloud gaming service.
 
